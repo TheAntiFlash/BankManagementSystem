@@ -22,11 +22,7 @@ int main()
     int accNum;
     double withdrawAmount;
 
-    cout << "-----WELCOME TO AIR BANKING SYSTEM-----" << endl;
-    cout << "-----BY: YAHYA BIN NAVEED      || 210999-----" << endl;
-    cout << "-----BY: MUHAMMAD AHSAN FAROOQ || 211023-----" << endl;
-    cout << "-----BY: MUHAMMAD HASHAAM AWAN || 210981-----" << endl;
-    cout << "-----TESTED BY: MUJTABA SHAHID || IRON 1-----" << endl;
+    cout << "-----WELCOME TO BANKING SYSTEM-----" << endl;
 
     cout << "LOGIN: " << endl;
     cout << ">EMPLOYEE (1) \n>CUSTOMER (2)" << endl;

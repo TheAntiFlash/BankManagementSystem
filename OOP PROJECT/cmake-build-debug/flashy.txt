@@ -1,0 +1,86 @@
+FirstName:Yahya
+MiddleName:Bin
+LastName:Naveed
+******************************
+Address:House#420
+******************************
+DayOfBirth:12
+MonthOfBirth:6
+YearOfBirth:2003
+******************************
+PhoneNumber:92348577661
+CNIC:6110196143551
+******************************
+AccountType:2
+CardType:2
+******************************
+AccountNumber:210999
+******************************
+CardNumber:4534912896473231
+******************************
+CurrentBalance:45904.34
+******************************
+Date: Tue May 24 02:14:08 2022
+Withdrawn Amount: 10020
+Balance: 99980.4
+******************************
+Date: Tue May 24 02:15:06 2022
+Withdrawn Amount: 25050
+Balance: 74930.4
+******************************
+Date: Tue May 24 02:18:20 2022
+Withdrawn Amount: 5000
+Balance: 69930.4
+******************************
+Date: Tue May 24 02:19:45 2022
+Withdrawn Amount: 12580.1
+Balance: 57350.3
+******************************
+Date: Tue May 24 02:20:50 2022
+Withdrawn Amount: 7014
+Balance: 50336.3
+******************************
+Date: Tue May 24 02:22:02 2022
+Withdrawn Amount: 2222
+Balance: 48114.3
+******************************
+Date: Tue May 24 02:28:28 2022
+Withdrawn Amount: 10
+Balance: 48104.3
+******************************
+Date: Tue May 24 02:14:08 2022
+Withdrawn Amount: 10020
+Balance: 99980.4
+******************************
+Date: Tue May 24 02:15:06 2022
+Withdrawn Amount: 25050
+Balance: 74930.4
+******************************
+Date: Tue May 24 02:18:20 2022
+Withdrawn Amount: 5000
+Balance: 69930.4
+******************************
+Date: Tue May 24 02:19:45 2022
+Withdrawn Amount: 12580.1
+Balance: 57350.3
+******************************
+Date: Tue May 24 02:20:50 2022
+Withdrawn Amount: 7014
+Balance: 50336.3
+******************************
+Date: Tue May 24 02:22:02 2022
+Withdrawn Amount: 2222
+Balance: 48114.3
+******************************
+Date: Tue May 24 02:28:28 2022
+Withdrawn Amount: 10
+Balance: 48104.3
+******************************
+Date: Wed May 25 23:14:10 2022
+Withdrawn Amount: 200
+Balance: 47904.3
+******************************
+Date: Wed May 25 23:39:41 2022
+Withdrawn Amount: 2000
+Balance: 45904.3
+******************************

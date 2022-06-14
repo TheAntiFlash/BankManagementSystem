@@ -1,0 +1,26 @@
+FirstName:Muhammad
+MiddleName:Hashaam
+LastName:Awan
+******************************
+Address:House#124
+******************************
+DayOfBirth:1
+MonthOfBirth:6
+YearOfBirth:2003
+******************************
+PhoneNumber:92448997531
+CNIC:6110196143553
+******************************
+AccountType:2
+CardType:3
+******************************
+AccountNumber:210981
+******************************
+CardNumber:1234567877
+******************************
+CurrentBalance:56800.75
+******************************
+Date: Wed May 25 23:30:38 2022
+Deposit Amount: 800
+Balance: 56800.8
+******************************

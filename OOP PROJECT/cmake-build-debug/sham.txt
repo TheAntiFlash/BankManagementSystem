@@ -9,7 +9,7 @@ MonthOfBirth:6
 YearOfBirth:2003
 ******************************
 PhoneNumber:92448997531
-CNIC:6110196143553
+CNIC:6110154682871
 ******************************
 AccountType:2
 CardType:3
